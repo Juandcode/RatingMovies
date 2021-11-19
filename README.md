@@ -3,10 +3,10 @@ _Show the list of movies with their respective category, you could do an "infini
 
 # Technologies
 
-_React Native, 
+React Native, 
 
- Redux toolkit_
+ Redux toolkit
  
- REST API_
+ REST API
 
 ![image](https://user-images.githubusercontent.com/33362931/135109950-3302fc37-2428-44a3-8e81-ea0bfb913453.gif)
